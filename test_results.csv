@@ -1,0 +1,7 @@
+test,type,expected,actual,result
+V1 daily energy: (1+5+2) kW x 10 h,valid,80.0,80.0,PASS
+V2 per m2: 80 kWh / 100 m2,valid,0.8,0.8,PASS
+V3 AC -20%: estimated after-kWh,valid,70.0,70.0,PASS
+I1 area = 0,invalid,rejected: Area must be greater than zero.,rejected: Area must be greater than zero.,PASS
+I2 negative AC power,invalid,rejected: AC power must be non-negative.,rejected: AC power must be non-negative.,PASS
+I3 hours = 25,invalid,rejected: Operating hours must be between 0 and 24.,rejected: Operating hours must be between 0 and 24.,PASS

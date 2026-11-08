@@ -1,0 +1,9 @@
+room_id,room_name,building,ac_kw_before,ac_kw_after,est_kwh_before,est_kwh_after,saving_kwh,saving_percent
+R01,Open Office,Admin Block,9.0,7.2,143.0,125.0,18.0,12.59
+R02,Meeting Room,Admin Block,3.5,2.8,28.8,24.6,4.2,14.58
+R03,Manager Office,Admin Block,2.8,2.24,29.6,25.12,4.48,15.14
+R04,Server Room,Admin Block,5.0,4.0,316.8,292.8,24.0,7.58
+R05,Lecture Hall,Academic Block,12.0,9.6,131.2,112.0,19.2,14.63
+R06,Computer Lab,Academic Block,7.0,5.6,132.3,119.7,12.6,9.52
+R07,Library,Academic Block,14.0,11.2,185.0,157.0,28.0,15.14
+R08,Cafeteria,Academic Block,6.0,4.8,84.0,75.6,8.4,10.0
