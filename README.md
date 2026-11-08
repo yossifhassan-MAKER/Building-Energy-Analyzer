@@ -1,6 +1,6 @@
 # Building Energy Analyzer
 
-**Student name:** [Write your name here]
+**Student name:** Youssef Hassan
 
 ## Project description
 A Python application that calculates and analyzes building energy consumption. It has two connected
